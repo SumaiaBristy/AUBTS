@@ -9,7 +9,7 @@ Abstract: Our motivation for this work is based on the observation that while th
 Title: Unsupervised Abstractive Summarization of Bengali Text Documents<br>
 Authors: Dr. Dagmar Gromann, Prof. Sebastian Rudolph and Xiaoyu Yin<br>
 My Name: Sumaia Aktar<br>
-My Paper:  https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf [**final report**]<br>
+My Paper:  https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf [** final_report.pdf **]<br>
 Institution: Brock University<br>
 Department: Computer Science<br>
 Course: 5P84 (Natural language Processing)<br>
@@ -24,4 +24,4 @@ CPU @ 2.30GHZ
 - torch 1.7+
 - NetwokX 2.6
 - FastAI (support torch below 1.8)
-For the fine-tuned model you just need to run this file https://github.com/SumaiaBristy/AUBTS/blob/main/fineTuningParaphrasedSummary.py [**fineTuningParaphrasedSummary.py**]
+For the fine-tuned model you just need to run this file https://github.com/SumaiaBristy/AUBTS/blob/main/fineTuningParaphrasedSummary.py [** fineTuningParaphrasedSummary.py**] and for for running the corresponding file regarding unsupervised model, please read the experimental section of our paper https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf
