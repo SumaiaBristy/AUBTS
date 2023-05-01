@@ -15,7 +15,7 @@ Department: Computer Science<br>
 Course: 5P84 (Natural language Processing)<br>
 My Supervisor: Ali Emami<br>
 
-My work includes development of two bengali text summarization model in supervised and unsupervised setting. We need following experimental set up before runing the projects.
+My work includes development of two bengali text summarization model in supervised and unsupervised setting. We need following experimental set up before runing the projects on windows operating system.
 CPU @ 2.30GHZ
 - 8GB RAM
 - conda 23.3.1
@@ -24,3 +24,4 @@ CPU @ 2.30GHZ
 - torch 1.7+
 - NetwokX 2.6
 - FastAI (support torch below 1.8)
+For the fine-tuned model you just need to run this file https://github.com/SumaiaBristy/AUBTS/blob/main/fineTuningParaphrasedSummary.py [**fineTuningParaphrasedSummary.py**]
