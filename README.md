@@ -24,4 +24,4 @@ CPU @ 2.30GHZ
 - torch 1.7+
 - NetwokX 2.6
 - FastAI (support torch below 1.8)
-For the fine-tuned model you just need to run this file https://github.com/SumaiaBristy/AUBTS/blob/main/fineTuningParaphrasedSummary.py [** fineTuningParaphrasedSummary.py**] and for for running the corresponding file regarding unsupervised model, please read the experimental section of our paper https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf
+For the fine-tuned model you just need to run this file https://github.com/SumaiaBristy/AUBTS/blob/main/fineTuningParaphrasedSummary.py [** fineTuningParaphrasedSummary.py**] and for for running the corresponding file regarding unsupervised model, please read the experimental section of our paper https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf to get detailed idea for system configuration, problem set up, dataset preprocessing, traning argumnets and so on.
