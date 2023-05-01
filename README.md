@@ -9,7 +9,7 @@ Abstract: Our motivation for this work is based on the observation that while th
 Title: Unsupervised Abstractive Summarization of Bengali Text Documents<br>
 Authors: Dr. Dagmar Gromann, Prof. Sebastian Rudolph and Xiaoyu Yin<br>
 My Name: Sumaia Aktar<br>
-My Paper:  https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf [** final_report.pdf **]<br>
+My Paper:  https://github.com/SumaiaBristy/AUBTS/blob/main/AUBTS_final_report.pdf [final_report.pdf]<br>
 Institution: Brock University<br>
 Department: Computer Science<br>
 Course: 5P84 (Natural language Processing)<br>
